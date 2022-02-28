@@ -1,6 +1,6 @@
 # DeckOfCards
 
-Hello, this is my first repo on Github. I have made this project on C++, where it simulates the real life shuffling of cards. Also, we can sort the cards in different ways. And, the game of **BLACKJACK** is added. No compromises are made on the features of the game, that is, you will get the feel of the real game.(But obviously, can't you give the nice look on the terminal.)  The commands that you can give during the execution of the program are(commands are case sensitive):-
+Hello, this is my first repo on Github. I have made this project on C++, where it simulates the real life shuffling of cards. Also, we can sort the cards in different ways. And, the game of **BLACKJACK** is added. No compromises are made on the features of the game, that is, you will get the feel of the real game.(But obviously, can't give you the nice look on the terminal.)  The commands that you can give during the execution of the program are(commands are case sensitive):-
 
 **Display** - *Displays the current order of cards.Cards are arranged in rows and the order is left to right.Note, your terminal font must be small enough to show the desired output.*
 
